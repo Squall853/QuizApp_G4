@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     let questions = ["Thu cung yeu thich?","Mau sac yeu thich","Noi sinh o dau"]
-    let answers = [["Cho","Meo","Chim"],["Den","Trang","Do"],["Vung Tau","Ho Chi Minh","Ha Noi"]]
+    let answers = [["Chuot","Meo","Chim"],["Den","Trang","Do"],["Vung Tau","Ho Chi Minh","Ha Noi"]]
     
     var currentQuestion = 0
     var rightAnswerPlacement:UInt32 = 0
